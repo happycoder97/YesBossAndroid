@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yes Boss</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_activity_title">Yes Boss</string>
+    <string name="last_updated_label" >Last Updated: </string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
